@@ -11,7 +11,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Rootjhon&show_icons=true&hide=issues&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rootjhon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rootjhon&hide=html)
 
 
 
