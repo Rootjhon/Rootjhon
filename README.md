@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![dino](./dino.gif)
+
 
 
 - [Wwise和Unity的集成到应用](https://mp.weixin.qq.com/s/OdSXYtnrQMQkOdGvgZd6rw)  ( *Audiokinetic官方公众号* )
@@ -14,4 +16,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rootjhon&hide=html)
 
 
+
+----
+
+#### Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/Rootjhon/count.svg)
 
