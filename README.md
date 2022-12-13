@@ -15,7 +15,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rootjhon&show_icons=true&locale=en&layout=compact&hide=html" alt="Rootjhon" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rootjhon&show_icons=true&hide=issues&count_private=true" alt="Rootjhon" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rootjhon&show_icons=true&hide=issues&count_private=true" alt="Rootjhon" />
 
 <br clear="left"/>
 
