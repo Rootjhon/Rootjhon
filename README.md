@@ -1,6 +1,7 @@
-### Hi there 👋  <img align="right" src="https://profile-counter.glitch.me/Rootjhon/count.svg" alt="Rootjhon" />
+### Hi there 👋 \>> [Blogs](https://rootjhon.github.io/)  <img align="right" src="https://profile-counter.glitch.me/Rootjhon/count.svg" alt="Rootjhon" />
 
 ![dino](./dino.gif)
+
 
 
 - [Wwise和Unity的集成到应用](https://mp.weixin.qq.com/s/OdSXYtnrQMQkOdGvgZd6rw)  ( *Audiokinetic官方公众号* )
