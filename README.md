@@ -13,8 +13,7 @@
 - [到底什么是DOTS?](https://mp.weixin.qq.com/s?__biz=MzkyMTM5Mjg3NQ==&mid=2247536376&idx=1&sn=4a3499b270b9ba2659eb688d18161fe1&source=41#wechat_redirect)  ( *Unity 官方公众号* )
 
 
-----
-
+<img align="center" width="200%" src="https://raw.githubusercontent.com/Rootjhon/img_note/empty/202403221601018.gif" alt="Rootjhon" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rootjhon&show_icons=true&locale=en&layout=compact&hide=html,scss" alt="Rootjhon" />
 
